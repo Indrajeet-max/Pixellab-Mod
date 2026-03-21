@@ -30,8 +30,8 @@
     "allowOffline": true
   },
   {
-    "id": "abc123def456ghi789",
-    "key": "key1",
+    "id": "97cb1a22a2ee7b5f",
+    "key": "target",
     "expiresAt": "2025-05-30",
     "allowOffline": true
   },
@@ -54,7 +54,7 @@
     "allowOffline": true
   },
   {
-    "id": "abc123def456ghi789",
+    "id": "97cb1a22a2ee7b5f",
     "key": "key1",
     "expiresAt": "2025-05-30",
     "allowOffline": true
